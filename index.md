@@ -1,17 +1,15 @@
 # Ryland D. Mortlock
 ## Education
-Bachelor of Science\
-Chemical Engineering (Biochemical Emphasis)\
-University of Southern California\
-Viterbi School of Engineering\
-Class of 2019
+Bachelor of Science. Chemical Engineering (Biochemical Emphasis)\
+University of Southern California. Viterbi School of Engineering\
+Class of 2019. *summa cum laude*
 
 ## Research Experience
-Aug. 2019 - Present
-Postbaccalaureate Intramural Research Training Award (IRTA)
+*Aug. 2019 - Present*\
+**Postbaccalaureate Intramural Research Training Award (IRTA)**\
 National Heart Lung Blood Institute, National Institutes of Health. Bethesda, MD
 Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis in vivo within a rhesus macaque animal model.
-Principal Investigator: Dr. Cynthia E. Dunbar
+*Principal Investigator*: Dr. Cynthia E. Dunbar
 
 Aug. 2017 - July 2019
 Undergraduate Research
