@@ -9,7 +9,7 @@ Aug. 2019 - Present\
 **Postbaccalaureate Intramural Research Training Award (IRTA)**\
 *Laboratory of Molecular Hematopoiesis, Translational Stem Cell Biology Branch*\
 *National Heart Lung Blood Institute, National Institutes of Health. Bethesda, MD*\
-Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis in vivo within a rhesus macaque animal model.\
+Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.\
 *Principal Investigator*: Dr. Cynthia E. Dunbar
 
 Aug. 2017 - July 2019\
