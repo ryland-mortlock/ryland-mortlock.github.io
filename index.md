@@ -1,9 +1,9 @@
 # Ryland D. Mortlock
 ## Education
-Bachelor of Science
-Chemical Engineering (Biochemical Emphasis)
-University of Southern California
-Viterbi School of Engineering
+Bachelor of Science\
+Chemical Engineering (Biochemical Emphasis)\
+University of Southern California\
+Viterbi School of Engineering\
 Class of 2019
 
 ## Research Experience
