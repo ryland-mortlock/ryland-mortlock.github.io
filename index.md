@@ -15,8 +15,8 @@ Genetic barcoding and single-cell RNA sequencing to understand steady-state hema
 Aug. 2017 - July 2019\
 **Undergraduate Research Fellowship**\
 *Computational Systems Biology Lab (CSBL)*\
-*Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*
-Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.
+*Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
+Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.\
 *Principal Investigator*: Prof. Stacey D. Finley
 
 June - Aug 2018\
