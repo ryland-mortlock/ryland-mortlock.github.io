@@ -37,6 +37,7 @@ May – July 2016\
 **Naval Research Enterprise Internship Program (NREIP)**\
 *Energy Academic Group, Naval Postgraduate School, Monterey, CA*\
 Alternative fuel sources for the Navy's fleet of medium and heavy-duty non-tactical vehicles.\
+Contributions to [Professional Report](https://calhoun.nps.edu/handle/10945/51643)\
 *Principal Investigator*: Prof. Dan Nussbaum
 
 ## Publications
