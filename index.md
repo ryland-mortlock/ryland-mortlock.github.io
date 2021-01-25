@@ -10,6 +10,7 @@ Aug. 2019 - Present\
 *Laboratory of Molecular Hematopoiesis, Translational Stem Cell Biology Branch*\
 *National Heart Lung Blood Institute, National Institutes of Health. Bethesda, MD*\
 Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.\
+[Pre-print on analysis of clonal tracking data](https://www.biorxiv.org/content/10.1101/2020.07.23.212787v2)\
 *Principal Investigator*: Dr. Cynthia E. Dunbar
 
 Aug. 2017 - July 2019\
@@ -17,12 +18,14 @@ Aug. 2017 - July 2019\
 *Computational Systems Biology Lab (CSBL)*\
 *Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
 Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.\
+[Mortlock et al CAMBE 2020](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
 *Principal Investigator*: Prof. Stacey D. Finley
 
 June - Aug 2018\
 **National Cancer Institute Cancer Systems Biology Consortium (CSBC) Summer Research Program**\
 *Dept. of Biological Engineering, Massachusetts Institute of Technology. Cambridge, MA*\
 Estimating the effects of cell cycle on transcriptome and biophysical properties of single cancer cells.\
+[Research Poster](https://github.com/ryland-mortlock/ryland-mortlock.github.io/blob/main/Mortlock%20CSBC%20Poster.pdf)\
 *Principal Investigator*: Prof. Douglas A. Lauffenburger
 
 May – Aug. 2017\
