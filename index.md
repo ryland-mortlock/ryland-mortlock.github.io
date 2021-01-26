@@ -18,7 +18,7 @@ Aug. 2017 - July 2019\
 *Computational Systems Biology Lab (CSBL)*\
 *Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
 Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.\
-[Mortlock et al CAMBE 2020](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
+[Mortlock et. al. CAMBE 2020](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
 *Principal Investigator*: Prof. Stacey D. Finley
 
 June - Aug 2018\
@@ -31,7 +31,7 @@ Estimating the effects of cell cycle on transcriptome and biophysical properties
 May – Aug. 2017\
 **Research Intern**\
 *National Geospatial-Intelligence Agency (NGA). Springfield, VA*\
-Quantitative analysis of intelligence data. 
+Quantitative analysis of classified intelligence data. 
 
 May – July 2016\
 **Naval Research Enterprise Internship Program (NREIP)**\
@@ -43,3 +43,71 @@ Contributions to [Professional Report](https://calhoun.nps.edu/handle/10945/5164
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=1nZ0kCcAAAAJ&hl=en)\
 [ORCID](https://orcid.org/0000-0001-9666-4394)
+
+## Awards
+Outstanding Poster Award at NIH Postbac Poster Day (April 2020)\
+Meritorious Abstract Travel Award from American Society for Gene and Cell Therapy (April 2020)\
+USC Discovery Scholars Prize Winner (May 2019)\
+USC Viterbi School of Engineering Outstanding Research Award (May 2019)\
+Charles J. Ebert Chemical Engineering Outstanding Student Award (May 2019)\
+National Academy of Engineering Grand Challenges Scholars (May 2019)\
+USC Presidential Scholarship (2016 - 2019)\
+Outstanding Poster Award, USC Mork Chemical Engineering Research Symposium (Nov. 2018)\
+First place in “Food, Pharmaceutical, and Biotechnology Category VIII”, American Institute of Chemical Engineers Annual Undergraduate Student Poster Session (Oct. 2018)\
+Interdisciplinary Award in “Mathematics, Physical Sciences, and Engineering” Category, USC Undergraduate Research Symposium (April 2018)
+
+## Teaching Experience
+Aug. 2018 – May 2019\
+Supplemental Instruction Leader for General Chemistry\
+*University of Southern California, Los Angeles, CA*
+
+Aug. – Dec. 2016\
+Learning Assistant for Disability Services and Programs\
+*University of Southern California, Los Angeles, CA*
+
+## Leadership and Service
+Oct. 2019 – Present\
+Mentor and "STEM in your Hood" Leader\
+*College Bound, Washington, D.C.*
+
+Oct. 2019 – Present\
+Volunteer Leader\
+*Shady Grove Nursing Home, Shady Grove, MD*
+
+Aug. 2018 – Present\
+Volunteer, Teen Engagement Program Steering Committee\
+*National Eczema Association, San Francisco, CA*
+
+Nov. 2019 – May 2020\
+Mentor\
+*Prince Georges County Public Schools Health & Biosciences Program, Largo, MD*
+
+Nov. 2018 – June 2019\
+Clinical Volunteer\
+*St. Vincent Medical Center, Los Angeles, CA.*
+
+April 2018 – May 2019\
+Vice President of Academics\
+April 2017 – April 2018\
+Operations and Resource Chairs\
+*University of Southern California Chapter of American Institute of Chemical Engineers, Los Angeles, CA*
+
+June – Aug. 2018\
+Clinical Volunteer\
+*Massachusetts Eye and Ear Infirmary, Boston, MA.*
+
+Aug. 2016 – May 2018\
+Residential Assistant\
+*Office for Residential Education, University of Southern California, Los Angeles, CA*
+
+Jan. – April 2018\
+Elementary School Volunteer\
+*Joint Educational Project, University of Southern California, Los Angeles, CA*
+
+Jan. – May 2016\
+Volunteer Health Screener\
+*Community Health Involvement Project, University of Southern California, Los Angeles, CA*
+
+Aug. 2015 – May 2016\
+Athletics Chair, Marks Tower Building Government\
+*Office for Residential Education, University of Southern California, Los Angeles, CA*
