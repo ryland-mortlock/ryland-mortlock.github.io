@@ -4,7 +4,7 @@ Bachelor of Science in Chemical Engineering (Biochemical Emphasis)\
 Viterbi School of Engineering, University of Southern California\
 Class of 2019 *summa cum laude*
 
-## Research Experience
+## Current Position
 Aug. 2019 - Present\
 **Postbaccalaureate Intramural Research Training Award (IRTA)**\
 *Laboratory of Molecular Hematopoiesis, Translational Stem Cell Biology Branch*\
@@ -13,6 +13,7 @@ Genetic barcoding and single-cell RNA sequencing to understand steady-state hema
 [Pre-print on analysis of clonal tracking data](https://www.biorxiv.org/content/10.1101/2020.07.23.212787v2)\
 *Principal Investigator*: Dr. Cynthia E. Dunbar
 
+## Past Research Experience
 Aug. 2017 - July 2019\
 **Undergraduate Research Fellowship**\
 *Computational Systems Biology Lab (CSBL)*\
@@ -98,16 +99,4 @@ Clinical Volunteer\
 
 Aug. 2016 – May 2018\
 Residential Assistant\
-*Office for Residential Education, University of Southern California, Los Angeles, CA*
-
-Jan. – April 2018\
-Elementary School Volunteer\
-*Joint Educational Project, University of Southern California, Los Angeles, CA*
-
-Jan. – May 2016\
-Volunteer Health Screener\
-*Community Health Involvement Project, University of Southern California, Los Angeles, CA*
-
-Aug. 2015 – May 2016\
-Athletics Chair, Marks Tower Building Government\
 *Office for Residential Education, University of Southern California, Los Angeles, CA*
