@@ -12,7 +12,7 @@ Aug. 2019 - Present\
 Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.
 * [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)
 <!-- -->
-*Principal Investigator*: Dr. Cynthia E. Dunbar
+Principal Investigator*: Dr. Cynthia E. Dunbar
 
 ## Past Research Experience
 Aug. 2017 - July 2019\
@@ -20,15 +20,17 @@ Aug. 2017 - July 2019\
 *Computational Systems Biology Lab (CSBL)*\
 *Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
 Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.
-- [Mortlock et. al. *Cel. Mol. Bioeng.* 2021](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
-*Principal Investigator*: Prof. Stacey D. Finley
+* [Mortlock et. al. *Cel. Mol. Bioeng.* 2021](https://link.springer.com/article/10.1007/s12195-020-00647-8)
+<!-- -->
+Principal Investigator*: Prof. Stacey D. Finley
 
 June - Aug 2018\
 **National Cancer Institute Cancer Systems Biology Consortium (CSBC) Summer Research Program**\
 *Dept. of Biological Engineering, Massachusetts Institute of Technology. Cambridge, MA*\
 Estimating the effects of cell cycle on transcriptome and biophysical properties of single cancer cells.\
-- [Research Poster from 2018 MIT Summer Research Symposium](https://github.com/ryland-mortlock/ryland-mortlock.github.io/blob/main/Mortlock%20CSBC%20Poster.pdf)\
-*Principal Investigator*: Prof. Douglas A. Lauffenburger
+* [Research Poster from 2018 MIT Summer Research Symposium](https://github.com/ryland-mortlock/ryland-mortlock.github.io/blob/main/Mortlock%20CSBC%20Poster.pdf)
+<!-- -->
+Principal Investigator*: Prof. Douglas A. Lauffenburger
 
 May – Aug. 2017\
 **Research Intern**\
@@ -39,18 +41,19 @@ May – July 2016\
 **Naval Research Enterprise Internship Program (NREIP)**\
 *Energy Academic Group, Naval Postgraduate School, Monterey, CA*\
 Alternative fuel sources for the Navy's fleet of medium and heavy-duty non-tactical vehicles.\
-- Contributions to [Barrett and Cochran thesis](https://calhoun.nps.edu/handle/10945/51643)\
-*Principal Investigator*: Prof. Daniel A. Nussbaum
+* Contributions to [Barrett and Cochran thesis](https://calhoun.nps.edu/handle/10945/51643)
+<!-- -->
+Principal Investigator*: Prof. Daniel A. Nussbaum
 
 ## Publications, Posters, & Oral Presentations
 [Google Scholar](https://scholar.google.com/citations?user=1nZ0kCcAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-9666-4394)
 
 Mortlock, R.D., Wu, C., Potter, E.L., Allan, D.S.J., Roederer, M., & Dunbar, C.E. “Tissue Trafficking Kinetics of Rhesus Macaque Natural Killer Cells Measured by Serial Intravascular Staining”. Oral abstract presented at the Natural Killer Cell Symposium, June 2021 (virtual). 
 
-Espinoza, D.A.$, Mortlock, R.D.$, Koelle, S.J. et al. Interrogation of clonal tracking data using barcodetrackR. *Nature Computational Science* 1, 280–289 (2021). https://doi.org/10.1038/s43588-021-00057-4
-$ **equal contributions**
-Poster presented at the following national meeting:
-•	American Society for Gene and Cell Therapy (ASGCT) Annual Meeting. May 2020 (virtual).
+Espinoza, D.A.$, Mortlock, R.D.$, Koelle, S.J. et al. Interrogation of clonal tracking data using barcodetrackR. *Nature Computational Science* 1, 280–289 (2021). [DOI](https://doi.org/10.1038/s43588-021-00057-4)\
+$ **equal contributions**\
+Poster presented at the following national meeting:\
+* American Society for Gene and Cell Therapy (ASGCT) Annual Meeting. May 2020 (virtual).
 
 Mortlock, R.D., Georgia, S.K. & Finley, S.D. Dynamic Regulation of JAK-STAT Signaling Through the Prolactin Receptor Predicted by Computational Modeling. *Cellular and Molecular Bioengeering* 14, 15–30 (2021). https://doi.org/10.1007/s12195-020-00647-8 
 Posters presented at the following national and local meetings:
