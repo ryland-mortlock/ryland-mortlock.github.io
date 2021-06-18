@@ -10,9 +10,8 @@ Aug. 2019 - Present\
 *Laboratory of Molecular Hematopoiesis, Translational Stem Cell Biology Branch*\
 *National Heart Lung Blood Institute, National Institutes of Health. Bethesda, MD*\
 Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.
-* [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)\
-* [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)\
-*Principal Investigator*: Dr. Cynthia E. Dunbar
+* [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)
+\\ *Principal Investigator*: Dr. Cynthia E. Dunbar
 
 ## Past Research Experience
 Aug. 2017 - July 2019\
