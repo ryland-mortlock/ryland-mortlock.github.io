@@ -56,7 +56,7 @@ Poster presented at the following national meeting:
 
 Mortlock, R.D., Georgia, S.K. & Finley, S.D. Dynamic Regulation of JAK-STAT Signaling Through the Prolactin Receptor Predicted by Computational Modeling. *Cellular and Molecular Bioengeering* 14, 15–30 (2021). [DOI](https://doi.org/10.1007/s12195-020-00647-8)\
 Posters presented at the following national and local meetings:
-* Mork Family Dept. of Chemical Engineering & Material Science Research Symposium. Los Angeles, CA, Nov. 2018.
+    * Mork Family Dept. of Chemical Engineering & Material Science Research Symposium. Los Angeles, CA, Nov. 2018.
 * Annual Student Conference of the American Institute of Chemical Engineers, Pittsburgh, PA, Oct. 2018.
 * USC Undergraduate Research Symposium in April 2018 and April 2019. Los Angeles, CA.
 
