@@ -9,8 +9,8 @@ Aug. 2019 - Present\
 **Postbaccalaureate Intramural Research Training Award (IRTA)**\
 *Laboratory of Molecular Hematopoiesis, Translational Stem Cell Biology Branch*\
 *National Heart Lung Blood Institute, National Institutes of Health. Bethesda, MD*\
-Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.\
-- [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)\
+Genetic barcoding and single-cell RNA sequencing to understand steady-state hematopoiesis and natural killer cell biology within a rhesus macaque animal model.
+- [Espinoza, Mortlock, et. al. *Nat. Comput. Sci.* 2021](https://www.nature.com/articles/s43588-021-00057-4)
 *Principal Investigator*: Dr. Cynthia E. Dunbar
 
 ## Past Research Experience
@@ -18,7 +18,7 @@ Aug. 2017 - July 2019\
 **Undergraduate Research Fellowship**\
 *Computational Systems Biology Lab (CSBL)*\
 *Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
-Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.\
+Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.
 - [Mortlock et. al. *Cel. Mol. Bioeng.* 2021](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
 *Principal Investigator*: Prof. Stacey D. Finley
 
