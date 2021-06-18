@@ -50,20 +50,19 @@ Principal Investigator: Prof. Daniel A. Nussbaum
 
 Mortlock, R.D., Wu, C., Potter, E.L., Allan, D.S.J., Roederer, M., & Dunbar, C.E. “Tissue Trafficking Kinetics of Rhesus Macaque Natural Killer Cells Measured by Serial Intravascular Staining”. Oral abstract presented at the Natural Killer Cell Symposium, June 2021 (virtual). 
 
-Espinoza, D.A.$, Mortlock, R.D.$, Koelle, S.J. et al. Interrogation of clonal tracking data using barcodetrackR. *Nature Computational Science* 1, 280–289 (2021). [DOI](https://doi.org/10.1038/s43588-021-00057-4)\
-$ **equal contributions**\
+Espinoza, D.A.$, Mortlock, R.D.$, Koelle, S.J. et al. Interrogation of clonal tracking data using barcodetrackR. *Nature Computational Science* 1, 280–289 (2021). [DOI](https://doi.org/10.1038/s43588-021-00057-4) $ **equal contributions**\
 Poster presented at the following national meeting:
 * American Society for Gene and Cell Therapy (ASGCT) Annual Meeting. May 2020 (virtual).
 
 Mortlock, R.D., Georgia, S.K. & Finley, S.D. Dynamic Regulation of JAK-STAT Signaling Through the Prolactin Receptor Predicted by Computational Modeling. *Cellular and Molecular Bioengeering* 14, 15–30 (2021). [DOI](https://doi.org/10.1007/s12195-020-00647-8)\
 Posters presented at the following national and local meetings:
-•	Mork Family Dept. of Chemical Engineering & Material Science Research Symposium. Los Angeles, CA, Nov. 2018.
-•	Annual Student Conference of the American Institute of Chemical Engineers, Pittsburgh, PA, Oct. 2018.
-•	USC Undergraduate Research Symposium in April 2018 and April 2019. Los Angeles, CA.
+* Mork Family Dept. of Chemical Engineering & Material Science Research Symposium. Los Angeles, CA, Nov. 2018.
+* Annual Student Conference of the American Institute of Chemical Engineers, Pittsburgh, PA, Oct. 2018.
+* USC Undergraduate Research Symposium in April 2018 and April 2019. Los Angeles, CA.
 
-Mortlock, R.D., Cordes, S.F., Wu, C., Allan, D.S.J., Fan, X., Lozano, R.J. & Dunbar, C.E. “Single Cell RNA Sequencing of Rhesus Macaque Natural Killer Cells Before & After CMV Infection.”\
-•	Oral presentation in NIH Postbac Seminar Series, April 2020 (virtual).
-•	Poster presentation at NIH Postbac Poster Day, April 2020 (virtual).
+Mortlock, R.D., Cordes, S.F., Wu, C., Allan, D.S.J., Fan, X., Lozano, R.J. & Dunbar, C.E. “Single Cell RNA Sequencing of Rhesus Macaque Natural Killer Cells Before & After CMV Infection.”
+* Oral presentation in NIH Postbac Seminar Series, April 2020 (virtual).
+* Poster presentation at NIH Postbac Poster Day, April 2020 (virtual).
 
 Mortlock, R.D. Personalized Medicine. Essay published in USC’s undergraduate journal The Healing Process. Fall 2018.
 
