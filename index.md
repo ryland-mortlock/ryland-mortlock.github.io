@@ -18,17 +18,15 @@ Aug. 2017 - July 2019\
 **Undergraduate Research Fellowship**\
 *Computational Systems Biology Lab (CSBL)*\
 *Dept. of Biomedical Engineering, University of Southern California. Los Angeles, CA*\
-Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.
-* [Mortlock et. al. *Cel. Mol. Bioeng.* 2021](https://link.springer.com/article/10.1007/s12195-020-00647-8)
-<!-- -->
+Dynamic regulation of JAK-STAT signaling through the prolactin receptor predicted by computational modeling.\
+[Mortlock et. al. *Cel. Mol. Bioeng.* 2021](https://link.springer.com/article/10.1007/s12195-020-00647-8)\
 Principal Investigator: Prof. Stacey D. Finley
 
 June - Aug 2018\
 **National Cancer Institute Cancer Systems Biology Consortium (CSBC) Summer Research Program**\
 *Dept. of Biological Engineering, Massachusetts Institute of Technology. Cambridge, MA*\
 Estimating the effects of cell cycle on transcriptome and biophysical properties of single cancer cells.\
-* [Research Poster from 2018 MIT Summer Research Symposium](https://github.com/ryland-mortlock/ryland-mortlock.github.io/blob/main/Mortlock%20CSBC%20Poster.pdf)
-<!-- -->
+[Research Poster from 2018 MIT Summer Research Symposium](https://github.com/ryland-mortlock/ryland-mortlock.github.io/blob/main/Mortlock%20CSBC%20Poster.pdf)\
 Principal Investigator: Prof. Douglas A. Lauffenburger
 
 May – Aug. 2017\
@@ -40,8 +38,7 @@ May – July 2016\
 **Naval Research Enterprise Internship Program (NREIP)**\
 *Energy Academic Group, Naval Postgraduate School, Monterey, CA*\
 Alternative fuel sources for the Navy's fleet of medium and heavy-duty non-tactical vehicles.\
-* Contributions to [Barrett and Cochran thesis](https://calhoun.nps.edu/handle/10945/51643)
-<!-- -->
+Contributions to [Barrett and Cochran thesis](https://calhoun.nps.edu/handle/10945/51643)\
 Principal Investigator: Prof. Daniel A. Nussbaum
 
 ## Publications, Posters, & Oral Presentations
